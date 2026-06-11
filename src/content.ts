@@ -15,7 +15,7 @@ export const profile = {
   phone: '+91 89285 16633',
   github: 'https://github.com/shanan-shetty-321',
   linkedin: 'https://linkedin.com/in/shanan-shetty-b2755523b',
-  cv: 'https://drive.google.com/file/d/1nae7C7W1_kDskp9tAYVPOT2xRgttVXPc/view',
+  cv: 'https://drive.google.com/file/d/1yYGCkU2Ko80CMByNGtG9dXrbt59EmeZc/view?usp=sharing',
   avatar: 'assets/shanan.jpeg',
 }
 
